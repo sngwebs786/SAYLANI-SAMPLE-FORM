@@ -1,0 +1,36 @@
+ #hd{
+    color: blueviolet;
+    text-align: center;
+}
+h1{
+    color: green;
+    text-align: center;
+}
+#bg{
+    background-color: rgb(95, 83, 201);
+    width: 95%;
+    
+    margin-left:2% ;
+    margin-bottom: 10%;
+}
+#image2{ 
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+
+}
+.pup{
+    color: blueviolet;
+    text-align: center;
+}
+p, td, th{
+    color: cornsilk;
+}
+#ww{
+text-align: center;
+;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
